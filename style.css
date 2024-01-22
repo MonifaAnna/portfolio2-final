@@ -1,0 +1,135 @@
+.sec1{
+    background-image: url("bg4.png");
+    background-repeat: no-repeat;
+    width: 1550px;
+   height: 800px;
+}
+.batton{
+    margin-left: 190px;
+    margin-top: 50px;
+    border-radius: 25px;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    margin-right: 255px;
+}
+a{
+    text-decoration: none;
+}
+.spen{
+  color:blue;
+}
+span{
+    color:white;
+}
+.middle-one{
+    text-align: center;
+    margin-top: 150px;
+}
+.best{
+    font-size: 80px;
+    margin-right: 195px;
+}
+.navbar-brand{
+    margin-left: 70px;
+}
+.navbar-nav{
+    margin-left: 250px;
+}
+.margin{
+   text-align: end;
+   margin-left: 100px;
+}
+.first-div{
+    text-align: center;
+ 
+}
+.second-div{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+h2{
+    color: white;
+}
+.with{
+  height: 500px;
+}
+.sec11{
+  background-image: url("ab2.png");
+  background-repeat: no-repeat;
+  height: 1000px;
+  margin-top: 100px;
+}
+.font{
+    text-align: center;
+    font-size: 40px;
+}
+.first-divvv{
+    text-align: center;
+    margin-top: 60px;
+}
+.sec-3{
+    background-image: url("re2.png");
+    background-repeat: no-repeat;
+}
+.beetton{
+    width: 150px;
+    font-size: 20px;
+    margin-right: 180px;
+}
+#first-dived{
+text-align: center;
+
+margin-bottom: 50px;
+}
+.last-first{
+background-image: url("caro_3.png");
+background-repeat: no-repeat;
+height: 700px;
+margin-top: 120px;
+}
+.carousel-item{
+height: 400px;
+margin-left: 150px;
+}
+.move{
+height: 400px;
+
+}
+a{
+text-decoration: none;
+color:white;
+}
+.sec12{
+    background-image: url("c_3.png");
+    background-repeat: no-repeat;
+    width: auto;
+    height: 800px;
+    margin-top: 100px;
+}
+.headd{
+    text-align: center;
+    line-height: 200px;
+}
+.first-div{
+    margin-left: 150px;
+}
+.btn1{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.mess{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.with{
+    width: 600px;
+}
+.btn2{
+    width: 180px;
+}
+.main-dii{
+    margin-left: 200px;
+    width: 1000px;
+}
