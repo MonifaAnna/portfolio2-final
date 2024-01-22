@@ -72,30 +72,7 @@ h2{
     background-image: url("re2.png");
     background-repeat: no-repeat;
 }
-.beetton{
-    width: 150px;
-    font-size: 20px;
-    margin-right: 180px;
-}
-#first-dived{
-text-align: center;
 
-margin-bottom: 50px;
-}
-.last-first{
-background-image: url("caro_3.png");
-background-repeat: no-repeat;
-height: 700px;
-margin-top: 120px;
-}
-.carousel-item{
-height: 400px;
-margin-left: 150px;
-}
-.move{
-height: 400px;
-
-}
 a{
 text-decoration: none;
 color:white;
@@ -134,3 +111,36 @@ color:white;
     margin-left: 200px;
     width: 1000px;
 }
+.project-div{
+    text-align: center;
+    color: white;
+ 
+}
+.project-head{
+    line-height: 70px;
+}
+.project-sec{
+    background-image: url("Screenshot_4.png");
+    background-repeat: no-repeat;
+    height: 1200px;
+    margin-top: 160px;
+}
+.project-card{
+    margin-top: 30px;
+    width: 900px;
+    margin-left: 200px;
+}
+.project-btn{
+    
+   
+    border-radius: 25px;
+    width: 150px;
+    color: white;
+    font-size: 17px;
+    
+}
+
+
+
+
+
