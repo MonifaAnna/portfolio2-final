@@ -71,6 +71,7 @@ h2{
 .sec-3{
     background-image: url("re2.png");
     background-repeat: no-repeat;
+    margin-bottom: 50px;
 }
 
 a{
@@ -82,7 +83,7 @@ color:white;
     background-repeat: no-repeat;
     width: auto;
     height: 800px;
-    margin-top: 100px;
+    
 }
 .headd{
     text-align: center;
