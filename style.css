@@ -57,7 +57,7 @@ h2{
 .sec11{
   background-image: url("ab2.png");
   background-repeat: no-repeat;
-  height: 1000px;
+  height: 930px;
   margin-top: 100px;
 }
 .font{
@@ -71,7 +71,7 @@ h2{
 .sec-3{
     background-image: url("re2.png");
     background-repeat: no-repeat;
-    margin-bottom: 50px;
+    margin-bottom: 130px;
 }
 
 a{
@@ -125,7 +125,7 @@ color:white;
     background-image: url("Screenshot_4.png");
     background-repeat: no-repeat;
     height: 1000px;
-    margin-top: 160px;
+    margin-top: 200px;
 }
 .project-card{
     margin-top: 30px;
@@ -144,6 +144,7 @@ color:white;
 .portfolio-sec{
     background-color: rgb(6, 4, 25);
     height: auto;
+    margin-bottom: 90px;
 }
 .h1-port{
     text-align: center;
